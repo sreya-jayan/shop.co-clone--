@@ -1,0 +1,33 @@
+[
+    {
+        "image":"/assets/image 7 copy.jpg",
+        "name": "Vertical Striped Shirt",
+         "image2":"/assets/Frame 10 copy 2.svg",
+        "rating":"5.0/5",
+        "price":"$212",
+        "dummyPrice": "$232",
+        "discount":"-20%"
+    
+    },
+    {
+    "image":"/assets/image 8.jpg",
+   "name": "Courage Graphic T-shirt",
+   "image2":"/assets/Frame 10 copy 3.svg",
+   "rating":"5.0/5",
+   "price": "$145"
+    },
+    {
+    "image":"/assets/image 9.jpg",
+    "name": "Loose Fit Bermuda Shorts",
+    "image2":"/assets/Frame 10 copy 4.svg",
+    "rating":"3.0/5",
+    "price": "$80"
+     },
+    {
+        "image":"/assets/image 10.jpg",
+        "name": "Faded Skinny Jeans",
+        "image2":"/assets/Frame 10.svg",
+        "rating":"4.5/5",
+        "price": "$210"
+    }  
+]

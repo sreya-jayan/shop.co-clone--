@@ -1,0 +1,46 @@
+[
+   {
+  
+    "image":"assets/image 7.jpg",
+    "name": "T-shirt with Tape Details",
+    "image2":"/assets/Frame 10.svg",
+    "rating":"4.5/5",
+    "price": "$120"
+
+   },
+   {
+  
+    "image":"/assets/Frame 33.jpg",
+    "name": "Skinny Fit Jeans",
+     "image2":"/assets/Frame 10 copy.svg",
+    "rating":"3.5/5",
+    "price":"$240",
+    "dummyPrice": "$260",
+    "discount":"-20%"
+
+   },
+   {
+   
+   "image":"/assets/Frame 34.jpg",
+   "name": "Chekered Shirt",
+   "image2":"/assets/Frame 10.svg",
+   "rating":"4.5/5",
+   "price": "$180"
+   },
+
+   {
+  
+   "image":"/assets/Frame 38.jpg",
+   "name": "Sleeve Striped T-shirt",
+   "image2":"/assets/Frame 10.svg",
+   "rating":"4.5/5",
+   "price": "$130",
+   "dummyPrice":"$160",
+   "discount":"-30%"
+  
+   
+   }
+   
+ 
+  
+]
